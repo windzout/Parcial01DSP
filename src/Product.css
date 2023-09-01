@@ -1,0 +1,14 @@
+
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .product img {
+    width: 150px; /* Ajusta el valor según tu preferencia */
+    height: 150px; /* Esto mantiene la proporción de aspecto */
+  }
+  

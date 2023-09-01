@@ -1,0 +1,29 @@
+/* App.css */
+.app {
+  text-align: center;
+  margin: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.cart {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 20px;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.total {
+  margin: 20px;
+  font-weight: bold;
+}
